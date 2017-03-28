@@ -21,6 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my testweb‘s second index page create by bobo on 2017.3.27 <br>
+我是index2.jsp页面！！！欢迎我    
+This is my testweb‘s second index page create by bobo on 2017.3.27 <br>
   </body>
 </html>
